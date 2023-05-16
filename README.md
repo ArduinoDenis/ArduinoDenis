@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arduinodenis" alt="arduinodenis" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArduinoDenis/](https://github.com/ArduinoDenis/)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ArduinoDenis?tab=repositories)
 
-- 📝 I regularly write articles on [projects on linux](projects on linux)
+- 📝 I regularly write articles on projects on linux
 
 - 💬 Ask me about **C++, C, Python, JS, etc.**
 
-- 📫 How to reach me **arduinodenis@libero.it**
+- 📫 How to reach me **link in bio**
 
 - ⚡ Fun fact **i think i am funny**
 
