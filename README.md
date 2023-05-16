@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/ArduinoDenis?tab=repositories)
 
-- 📝 I regularly write articles on projects on linux
+- 📝 I regularly write articles on [myblog](https://arduinodenis.jimdofree.com/blog/)
 
 - 💬 Ask me about **C++, C, Python, JS, etc.**
 
-- 📫 How to reach me **link in bio**
+- 📫 How to reach me [contact me](https://arduinodenis.jimdofree.com/contattami/)
 
 - ⚡ Fun fact **i think i am funny**
 
