@@ -3,9 +3,9 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-%233498db.svg?style=for-the-badge&logo=safari&logoColor=white)](https://arduinodenis.it)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArduinoDenis)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://link.arduinodenis.it/yt)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://link.arduinodenis.it/tw)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArduinoDenis?tab=repositories)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://arduinodenis.it/youtube)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://arduinodenis.it/twitch)
 
 Tecnico informatico specializzato in sviluppo e sicurezza informatica, content creator appassionato di tecnologia.
 
@@ -44,7 +44,7 @@ Tecnico informatico specializzato in sviluppo e sicurezza informatica, content c
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arduinodenis&layout=compact&theme=dark)](https://github.com/arduinodenis)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArduinoDenis&layout=compact&theme=dark)](https://github.com/ArduinoDenis)
 
 </div>
 
@@ -56,7 +56,7 @@ Puoi trovare tutti i miei progetti nei [miei repository](https://github.com/Ardu
 - Sicurezza informatica
 - Tutorial e contenuti didattici
 
-## 📝 Blog e Contenuti
+## 📝 Contenuti
 
 - 📺 Creo contenuti su YouTube e Twitch sulla programmazione e tecnologia
 - 🎯 Mi concentro sulla condivisione di conoscenze pratiche e applicabili
@@ -65,6 +65,9 @@ Puoi trovare tutti i miei progetti nei [miei repository](https://github.com/Ardu
 
 - 🌐 Sito Web: [arduinodenis.it](https://arduinodenis.it)
 - 📧 Contatti: [Pagina Contatti](https://arduinodenis.it/contatti/)
+
+## 💳 Supporto
+- Se apprezzi il mio lavoro, considera una donazione: [PayPal](https://link.arduinodenis.it/donazione/)
 
 ---
 
