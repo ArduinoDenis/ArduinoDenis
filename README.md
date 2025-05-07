@@ -14,10 +14,10 @@ Tecnico informatico specializzato in sviluppo e sicurezza informatica, content c
 ## 🛠️ Tecnologie e Strumenti
 
 ### Linguaggi di Programmazione
-- C/C++ (Principale)
+- JavaScript (Principale)
 - Python
-- JavaScript
 - Shell Script
+- C/C++
 - Lua
 
 ### Web Development
