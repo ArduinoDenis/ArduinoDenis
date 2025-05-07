@@ -18,6 +18,7 @@ Tecnico informatico specializzato in sviluppo e sicurezza informatica, content c
 - Python
 - JavaScript
 - Shell Script
+- Lua
 
 ### Web Development
 - HTML5 / CSS3
@@ -27,7 +28,6 @@ Tecnico informatico specializzato in sviluppo e sicurezza informatica, content c
 ### Database
 - MySQL
 - MariaDB
-- MongoDB
 
 ### DevOps & Cloud
 - Docker
